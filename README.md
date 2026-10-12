@@ -68,4 +68,4 @@ jupyter notebook notebooks/
 ## Author
 
 **Alejandro Fernández Trillo** · Mathematics graduate · MSc student in Artificial Intelligence
-[LinkedIn](www.linkedin.com/in/alejandro-fernandez-trillo)
+[LinkedIn](https://www.linkedin.com/in/alejandro-fernandez-trillo)
