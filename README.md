@@ -51,7 +51,7 @@ classical-ml-portfolio/
 ## Quick start
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/classical-ml-portfolio.git
+git clone https://github.com/alejandrofer24/classical-ml-portfolio.git
 cd classical-ml-portfolio
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
